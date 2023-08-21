@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\bin\Debug\net6.0\QuartoProjeto.exe
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\bin\Debug\net6.0\QuartoProjeto.deps.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\bin\Debug\net6.0\QuartoProjeto.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\bin\Debug\net6.0\QuartoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\bin\Debug\net6.0\QuartoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\refint\QuartoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\QuartoProjeto.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuartoProjeto\QuartoProjeto\obj\Debug\net6.0\ref\QuartoProjeto.dll

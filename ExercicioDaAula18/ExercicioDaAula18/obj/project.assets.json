@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxib\\Contacts\\Desktop\\curso-c#\\ExercicioDaAula18\\ExercicioDaAula18\\ExercicioDaAula18.csproj",
+      "projectUniqueName": "C:\\Users\\maxib\\Contacts\\Desktop\\CursoC#\\ExercicioDaAula18\\ExercicioDaAula18\\ExercicioDaAula18.csproj",
       "projectName": "ExercicioDaAula18",
-      "projectPath": "C:\\Users\\maxib\\Contacts\\Desktop\\curso-c#\\ExercicioDaAula18\\ExercicioDaAula18\\ExercicioDaAula18.csproj",
+      "projectPath": "C:\\Users\\maxib\\Contacts\\Desktop\\CursoC#\\ExercicioDaAula18\\ExercicioDaAula18\\ExercicioDaAula18.csproj",
       "packagesPath": "C:\\Users\\maxib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxib\\Contacts\\Desktop\\curso-c#\\ExercicioDaAula18\\ExercicioDaAula18\\obj\\",
+      "outputPath": "C:\\Users\\maxib\\Contacts\\Desktop\\CursoC#\\ExercicioDaAula18\\ExercicioDaAula18\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxib\\AppData\\Roaming\\NuGet\\NuGet.Config",

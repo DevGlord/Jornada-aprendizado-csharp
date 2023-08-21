@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\bin\Debug\net6.0\QuintoProjeto.exe
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\bin\Debug\net6.0\QuintoProjeto.deps.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\bin\Debug\net6.0\QuintoProjeto.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\bin\Debug\net6.0\QuintoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\bin\Debug\net6.0\QuintoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\refint\QuintoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\QuintoProjeto.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\QuintoProjeto\QuintoProjeto\obj\Debug\net6.0\ref\QuintoProjeto.dll
