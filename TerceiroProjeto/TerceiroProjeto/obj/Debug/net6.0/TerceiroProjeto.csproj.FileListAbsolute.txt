@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\bin\Debug\net6.0\TerceiroProjeto.exe
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\bin\Debug\net6.0\TerceiroProjeto.deps.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\bin\Debug\net6.0\TerceiroProjeto.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\bin\Debug\net6.0\TerceiroProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\bin\Debug\net6.0\TerceiroProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\refint\TerceiroProjeto.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\TerceiroProjeto.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\TerceiroProjeto\TerceiroProjeto\obj\Debug\net6.0\ref\TerceiroProjeto.dll

@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\bin\Debug\net6.0\ExercicioDaAula18.exe
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\bin\Debug\net6.0\ExercicioDaAula18.deps.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\bin\Debug\net6.0\ExercicioDaAula18.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\bin\Debug\net6.0\ExercicioDaAula18.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\bin\Debug\net6.0\ExercicioDaAula18.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\refint\ExercicioDaAula18.dll
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.pdb
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ExercicioDaAula18.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\curso-c#\ExercicioDaAula18\ExercicioDaAula18\obj\Debug\net6.0\ref\ExercicioDaAula18.dll
