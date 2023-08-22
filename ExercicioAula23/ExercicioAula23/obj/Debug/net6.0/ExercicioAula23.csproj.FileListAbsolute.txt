@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\refint\ExercicioAula23.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ref\ExercicioAula23.dll
