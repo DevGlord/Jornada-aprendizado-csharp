@@ -23,7 +23,7 @@ namespace ExercicioSequencial6
             double quadrado = b * b;
             double retangulo = a * b;
 
-            Console.WriteLine($"TRIANGULO:{triangulo.ToString("F2",CultureInfo.InvariantCulture)} ");
+            Console.WriteLine($"TRIANGULO:{triangulo.ToString("F3",CultureInfo.InvariantCulture)} ");
             Console.WriteLine($"Circulo:{circulo.ToString("F3", CultureInfo.InvariantCulture)}");
             Console.WriteLine($"TRAPEZIO: {trapezio.ToString("F3", CultureInfo.InvariantCulture)}");
             Console.WriteLine($"QUADRADO: {quadrado.ToString("F3", CultureInfo.InvariantCulture)}");
