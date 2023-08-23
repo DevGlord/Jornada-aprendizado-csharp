@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioSequencial3/1.0.0": {
+        "runtime": {
+          "ExercicioSequencial3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioSequencial3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

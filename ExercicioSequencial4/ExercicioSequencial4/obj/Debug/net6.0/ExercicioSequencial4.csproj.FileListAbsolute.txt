@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\bin\Debug\net6.0\ExercicioSequencial4.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\bin\Debug\net6.0\ExercicioSequencial4.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\bin\Debug\net6.0\ExercicioSequencial4.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\bin\Debug\net6.0\ExercicioSequencial4.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\bin\Debug\net6.0\ExercicioSequencial4.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\refint\ExercicioSequencial4.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ExercicioSequencial4.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioSequencial4\ExercicioSequencial4\obj\Debug\net6.0\ref\ExercicioSequencial4.dll
