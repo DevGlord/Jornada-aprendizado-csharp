@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\bin\Debug\net7.0\ExercicioEstruturalCondicional7.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\bin\Debug\net7.0\ExercicioEstruturalCondicional7.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\bin\Debug\net7.0\ExercicioEstruturalCondicional7.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\bin\Debug\net7.0\ExercicioEstruturalCondicional7.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\bin\Debug\net7.0\ExercicioEstruturalCondicional7.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\refint\ExercicioEstruturalCondicional7.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ExercicioEstruturalCondicional7.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional7\ExercicioEstruturalCondicional7\obj\Debug\net7.0\ref\ExercicioEstruturalCondicional7.dll

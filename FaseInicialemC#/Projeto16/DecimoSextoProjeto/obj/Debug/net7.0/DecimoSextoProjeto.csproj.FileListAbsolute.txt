@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\bin\Debug\net7.0\DecimoSextoProjeto.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\bin\Debug\net7.0\DecimoSextoProjeto.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\bin\Debug\net7.0\DecimoSextoProjeto.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\bin\Debug\net7.0\DecimoSextoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\bin\Debug\net7.0\DecimoSextoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\refint\DecimoSextoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\DecimoSextoProjeto.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoSextoProjeto\DecimoSextoProjeto\obj\Debug\net7.0\ref\DecimoSextoProjeto.dll

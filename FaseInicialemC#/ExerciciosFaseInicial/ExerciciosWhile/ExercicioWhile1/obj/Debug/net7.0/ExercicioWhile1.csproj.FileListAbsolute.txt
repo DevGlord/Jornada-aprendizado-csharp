@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\bin\Debug\net7.0\ExercicioWhile1.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\bin\Debug\net7.0\ExercicioWhile1.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\bin\Debug\net7.0\ExercicioWhile1.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\bin\Debug\net7.0\ExercicioWhile1.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\bin\Debug\net7.0\ExercicioWhile1.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\refint\ExercicioWhile1.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ExercicioWhile1.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile1\obj\Debug\net7.0\ref\ExercicioWhile1.dll

@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\bin\Debug\net7.0\PrimeiroProjetoClassse.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\bin\Debug\net7.0\PrimeiroProjetoClassse.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\bin\Debug\net7.0\PrimeiroProjetoClassse.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\bin\Debug\net7.0\PrimeiroProjetoClassse.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\bin\Debug\net7.0\PrimeiroProjetoClassse.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\refint\PrimeiroProjetoClassse.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\PrimeiroProjetoClassse.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\PrimeiroProjetoClassse\obj\Debug\net7.0\ref\PrimeiroProjetoClassse.dll

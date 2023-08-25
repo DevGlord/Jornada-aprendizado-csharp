@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\bin\Debug\net6.0\DecimoQuintoPrograma.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\bin\Debug\net6.0\DecimoQuintoPrograma.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\bin\Debug\net6.0\DecimoQuintoPrograma.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\bin\Debug\net6.0\DecimoQuintoPrograma.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\bin\Debug\net6.0\DecimoQuintoPrograma.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\refint\DecimoQuintoPrograma.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\DecimoQuintoPrograma.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuintoPrograma\obj\Debug\net6.0\ref\DecimoQuintoPrograma.dll

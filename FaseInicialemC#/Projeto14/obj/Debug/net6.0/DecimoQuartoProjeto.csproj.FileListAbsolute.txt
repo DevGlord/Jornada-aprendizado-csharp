@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\bin\Debug\net6.0\DecimoQuartoProjeto.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\bin\Debug\net6.0\DecimoQuartoProjeto.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\bin\Debug\net6.0\DecimoQuartoProjeto.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\bin\Debug\net6.0\DecimoQuartoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\bin\Debug\net6.0\DecimoQuartoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\refint\DecimoQuartoProjeto.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\DecimoQuartoProjeto.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\DecimoQuartoProjeto\obj\Debug\net6.0\ref\DecimoQuartoProjeto.dll

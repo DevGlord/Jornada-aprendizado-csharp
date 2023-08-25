@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\bin\Debug\net7.0\ExercicioWhile2.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\bin\Debug\net7.0\ExercicioWhile2.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\bin\Debug\net7.0\ExercicioWhile2.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\bin\Debug\net7.0\ExercicioWhile2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\bin\Debug\net7.0\ExercicioWhile2.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\refint\ExercicioWhile2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ExercicioWhile2.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioWhile2\ExercicioWhile2\obj\Debug\net7.0\ref\ExercicioWhile2.dll
