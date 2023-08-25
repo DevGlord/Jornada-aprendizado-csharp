@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioEstruturalCondicional8
+namespace ExercicioEstruturalCondicional7
 {
     class Program
     {
