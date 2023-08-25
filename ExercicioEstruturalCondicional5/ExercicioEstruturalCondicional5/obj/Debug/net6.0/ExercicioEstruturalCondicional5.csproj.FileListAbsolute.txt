@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\bin\Debug\net6.0\ExercicioEstruturalCondicional5.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\bin\Debug\net6.0\ExercicioEstruturalCondicional5.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\bin\Debug\net6.0\ExercicioEstruturalCondicional5.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\bin\Debug\net6.0\ExercicioEstruturalCondicional5.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\bin\Debug\net6.0\ExercicioEstruturalCondicional5.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\refint\ExercicioEstruturalCondicional5.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ExercicioEstruturalCondicional5.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExercicioEstruturalCondicional5\ExercicioEstruturalCondicional5\obj\Debug\net6.0\ref\ExercicioEstruturalCondicional5.dll

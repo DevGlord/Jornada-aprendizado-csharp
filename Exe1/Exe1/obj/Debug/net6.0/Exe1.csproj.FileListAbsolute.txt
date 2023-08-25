@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\bin\Debug\net6.0\Exe1.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\bin\Debug\net6.0\Exe1.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\bin\Debug\net6.0\Exe1.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\bin\Debug\net6.0\Exe1.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\bin\Debug\net6.0\Exe1.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\refint\Exe1.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\Exe1.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Exe1\Exe1\obj\Debug\net6.0\ref\Exe1.dll
