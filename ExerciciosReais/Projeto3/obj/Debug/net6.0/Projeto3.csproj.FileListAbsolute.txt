@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\bin\Debug\net6.0\Projeto3.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\bin\Debug\net6.0\Projeto3.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\bin\Debug\net6.0\Projeto3.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\bin\Debug\net6.0\Projeto3.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\bin\Debug\net6.0\Projeto3.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\refint\Projeto3.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\Projeto3.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\ExerciciosReais\Projeto3\obj\Debug\net6.0\ref\Projeto3.dll
