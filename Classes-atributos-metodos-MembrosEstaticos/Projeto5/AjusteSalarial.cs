@@ -21,7 +21,7 @@ namespace Projeto5
         public override string ToString()
         {
             return $"Nome: {Nome}\n" +
-                $"{SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture)}\n";
+                $"R$ {SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture)}\n";
                  
         }
     }

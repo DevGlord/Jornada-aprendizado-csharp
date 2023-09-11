@@ -1,31 +1,28 @@
-﻿
+﻿using System.Globalization;
 
-using System.Xml;
-
-namespace Projeto6
+namespace ConsoleApp2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            MediaAluno Aluno = new MediaAluno();
-            MediaAluno n1 = new MediaAluno();
-            MediaAluno n2 = new MediaAluno();
-            MediaAluno n3 = new MediaAluno();
+            // Chamar a função
+            NotaFinal a1 = new NotaFinal();
 
-            Console.Write("Digite o nome do aluno:");
-            Aluno.Nome = Console.ReadLine();
+            // Ler o nome e as notas de um aluno
+            Console.Write("Nome do aluno:");
+            a1.Nome = Console.ReadLine();
 
             Console.WriteLine("Digite as três notas do aluno:");
-            n1.Nota = double.Parse(Console.ReadLine());
-            n2.Nota = double.Parse(Console.ReadLine());
-            n3.Nota = double.Parse(Console.ReadLine());
+            double n1 = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            double n2 = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            double n3 = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            a1.Calculo(n1, n2, n3);
 
-            Aluno.Media(n1.Nota,n2.Nota,n3.Nota);
-            Console.WriteLine($"{Aluno}");
-            
-
-
+            // Mostrar a nota final do aluno
+            Console.WriteLine();
+            Console.WriteLine($"NOTA FINAL = {a1.Calculo}");
+            // Dizer se esta APROVADO OU REPROVADO
         }
     }
 }
