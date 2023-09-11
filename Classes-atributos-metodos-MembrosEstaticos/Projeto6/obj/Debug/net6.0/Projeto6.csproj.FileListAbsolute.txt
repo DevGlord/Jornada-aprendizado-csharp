@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\Projeto6.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\Projeto6.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\Projeto6.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\Projeto6.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\Projeto6.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\refint\Projeto6.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\Projeto6.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ref\Projeto6.dll
