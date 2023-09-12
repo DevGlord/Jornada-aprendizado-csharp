@@ -12,3 +12,17 @@ C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstatic
 C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
 C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
 C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto6\obj\Debug\net6.0\ref\ConsoleApp2.dll
