@@ -1,0 +1,14 @@
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\bin\Debug\net7.0\Projeto7.exe
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\bin\Debug\net7.0\Projeto7.deps.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\bin\Debug\net7.0\Projeto7.runtimeconfig.json
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\bin\Debug\net7.0\Projeto7.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\bin\Debug\net7.0\Projeto7.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.AssemblyInfoInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.AssemblyInfo.cs
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.csproj.CoreCompileInputs.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\refint\Projeto7.dll
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.pdb
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\Projeto7.genruntimeconfig.cache
+C:\Users\maxib\Contacts\Desktop\CursoC#\Classes-atributos-metodos-MembrosEstaticos\Projeto7\obj\Debug\net7.0\ref\Projeto7.dll
